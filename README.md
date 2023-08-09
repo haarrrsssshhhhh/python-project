@@ -1,4 +1,7 @@
 # python-project
+Launch an EC2 instance
+Connect with your SSH
+Install Jenkins
 Once jenkins is installed click on Build Now :
 ![1](https://github.com/haarrrsssshhhhh/python-project/assets/123166741/8cc88e0d-cbc2-462a-8e20-66d378e02589)
 
@@ -13,3 +16,5 @@ After saving click on Build Now
 
 Your Pipeline has been sucessfully executed
 ![4](https://github.com/haarrrsssshhhhh/python-project/assets/123166741/1c649a5e-b00e-405c-ba91-6f39065106cf)
+
+ Now connect with SCM adding your repository URL to automate.
